@@ -39,10 +39,6 @@ private Usuario usuario ;
         }
 
     }
-    //   public Topico(@Valid DatosRegistrarTopico datosRegistrarTopico) {
-  //      this.mensaje=datosRegistrarTopico.mensaje();
-   //     this.nombreCurso=datosRegistrarTopico.nombreCurso();
-   //     this.titulo=datosRegistrarTopico.titulo();
-   // }
+ 
 
 }
